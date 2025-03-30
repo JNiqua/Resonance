@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b8ea2da3-0237-467a-b496-8ba607176893}">
+		<property name="assetPath">
+			<value>semi-desert-insects-ravens-birds-quiet-with-bad-mic-noise-badlands-ab-190818-7028.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>125.712</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7968ac7-dfc9-4734-b5f2-cb399509860a}</destination>
+		</relationship>
+	</object>
+</objects>

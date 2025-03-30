@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e63d18d3-9e3b-4b89-80b0-c9ef3757410b}">
+		<property name="assetPath">
+			<value>small-crack-shatter-sound-zzz000111-1-47921.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.4399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7968ac7-dfc9-4734-b5f2-cb399509860a}</destination>
+		</relationship>
+	</object>
+</objects>
